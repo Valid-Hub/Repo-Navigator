@@ -19,3 +19,6 @@
 [submodule "Frontend/Html/Scientific-Calculator"]
 	path = Frontend/Html/Scientific-Calculator
 	url = https://github.com/Valid-Hub/Scientific-Calculator.git
+[submodule "Full Stack/Employee-Manager"]
+	path = Full Stack/Employee-Manager
+	url = https://github.com/Valid-Hub/Employee-Manager.git
