@@ -13,3 +13,6 @@
 [submodule "Backend/Express/Pollak-Esport-Backend"]
 	path = Backend/Express/Pollak-Esport-Backend
 	url = https://github.com/Valid-Hub/Pollak-Esport-Backend.git
+[submodule "Full Stack/Timetable"]
+	path = Full Stack/Timetable
+	url = https://github.com/Valid-Hub/Timetable.git
