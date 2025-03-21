@@ -28,3 +28,9 @@
 [submodule "C#/GAMF-Presentation"]
 	path = "C#/GAMF-Presentation"
 	url = https://github.com/Valid-Hub/GAMF-Presentation.git
+[submodule "Exam/Mock-Exam-20250115"]
+	path = Exam/Mock-Exam-20250115
+	url = https://github.com/Valid-Hub/Mock-Exam-20250115.git
+[submodule "Exam/Mock-Exam-20250312"]
+	path = Exam/Mock-Exam-20250312
+	url = https://github.com/Valid-Hub/Mock-Exam-20250312.git
