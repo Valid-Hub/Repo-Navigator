@@ -25,3 +25,6 @@
 [submodule "C#/GAMF"]
 	path = "C#/GAMF"
 	url = https://github.com/Valid-Hub/GAMF.git
+[submodule "C#/GAMF-Presentation"]
+	path = "C#/GAMF-Presentation"
+	url = https://github.com/Valid-Hub/GAMF-Presentation.git
