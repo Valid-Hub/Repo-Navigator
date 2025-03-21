@@ -7,3 +7,9 @@
 [submodule "Full Stack/PlateMate"]
 	path = Full Stack/PlateMate
 	url = https://github.com/Valid-Hub/PlateMate.git
+[submodule "Full Stack/Pollak-Esport-Backend"]
+	path = Full Stack/Pollak-Esport-Backend
+	url = https://github.com/Valid-Hub/Pollak-Esport-Backend.git
+[submodule "Backend/Express/Pollak-Esport-Backend"]
+	path = Backend/Express/Pollak-Esport-Backend
+	url = https://github.com/Valid-Hub/Pollak-Esport-Backend.git
