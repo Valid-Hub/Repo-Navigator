@@ -16,3 +16,6 @@
 [submodule "Full Stack/Timetable"]
 	path = Full Stack/Timetable
 	url = https://github.com/Valid-Hub/Timetable.git
+[submodule "Frontend/Html/Scientific-Calculator"]
+	path = Frontend/Html/Scientific-Calculator
+	url = https://github.com/Valid-Hub/Scientific-Calculator.git
