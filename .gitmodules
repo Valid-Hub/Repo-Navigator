@@ -22,3 +22,6 @@
 [submodule "Full Stack/Employee-Manager"]
 	path = Full Stack/Employee-Manager
 	url = https://github.com/Valid-Hub/Employee-Manager.git
+[submodule "C#/GAMF"]
+	path = "C#/GAMF"
+	url = https://github.com/Valid-Hub/GAMF.git
