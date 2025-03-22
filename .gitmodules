@@ -34,3 +34,6 @@
 [submodule "Exam/Mock-Exam-20250312"]
 	path = Exam/Mock-Exam-20250312
 	url = https://github.com/Valid-Hub/Mock-Exam-20250312.git
+[submodule "Backend/NestJS/EduCloud-Backend"]
+	path = Backend/NestJS/EduCloud-Backend
+	url = https://github.com/Valid-Hub/Educloud-Backend.git
