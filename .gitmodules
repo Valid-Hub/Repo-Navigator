@@ -37,3 +37,6 @@
 [submodule "Backend/NestJS/EduCloud-Backend"]
 	path = Backend/NestJS/EduCloud-Backend
 	url = https://github.com/Valid-Hub/Educloud-Backend.git
+[submodule "Frontend/React/Portfolio"]
+	path = Frontend/React/Portfolio
+	url = https://github.com/Valid-Hub/Portfolio.git
