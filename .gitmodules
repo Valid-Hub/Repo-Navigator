@@ -43,3 +43,6 @@
 [submodule "Exam/Mock-Exam-Shortened-20250402"]
 	path = Exam/Mock-Exam-Shortened-20250402
 	url = https://github.com/Valid-Hub/Mock-Exam-Shortened-20250402
+[submodule "Full Stack/Discord-Bot"]
+	path = Full Stack/Discord-Bot
+	url = https://github.com/Valid-Hub/Discord-Bot.git
