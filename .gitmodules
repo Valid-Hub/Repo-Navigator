@@ -49,3 +49,9 @@
 [submodule "Exam/Mock-Exam-20250407"]
 	path = Exam/Mock-Exam-20250407
 	url = https://github.com/Valid-Hub/Mock-Exam-20250407.git
+[submodule "Full Stack/Stynx"]
+	path = Full Stack/Stynx
+	url = https://github.com/Valid-Hub/Stynx.git
+[submodule "Full Stack/Fadez"]
+	path = Full Stack/Fadez
+	url = https://github.com/Valid-Hub/Fadez.git
