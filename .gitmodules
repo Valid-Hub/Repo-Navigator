@@ -55,3 +55,6 @@
 [submodule "Full Stack/Fadez"]
 	path = Full Stack/Fadez
 	url = https://github.com/Valid-Hub/Fadez.git
+[submodule "Full Stack/Final-Exam"]
+	path = Full Stack/Final-Exam
+	url = https://github.com/Valid-Hub/Final-Exam
